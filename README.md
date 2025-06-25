@@ -12,7 +12,7 @@
 💡 Risk mitigation by identifying potentially underperforming projects before large investments
 
 🗂️ Dataset Description
-
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 We used two datasets:
 movies.csv: Contains core details like budget, popularity, vote_average, runtime, etc.
 credits.csv: Contains cast and crew information
